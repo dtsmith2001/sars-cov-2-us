@@ -1,4 +1,5 @@
 # sars-cov-2-us
-Modeling the SARS-CoV-2 Outbreak in the United States
 
-https://epubs.siam.org/page/EpidemiologyCollection
+US ex NYC Metro versus NYC Metro
+
+Data courtesy of the New York Times https://github.com/nytimes/covid-19-data
